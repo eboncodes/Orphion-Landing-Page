@@ -21,14 +21,14 @@ bg-gradient-to-br from-white from-30% to-white/40
 bg-clip-text py-6 text-5xl font-semibold leading-none tracking-tighter
 text-transparent sm:text-6xl"
                     >
-                        The Orphion ecosystem brings together our models
+                        One AI Agent. Limitless Possibilities.
                     </h2>
                     <p
                         className="text-balance
 text-lg tracking-tight text-gray-400
 md:text-xl"
                     >
-                        Empower your team with workflows that adapt to your needs, whether you prefer git synchronization or a AI Agents interface.
+                        From intelligent code generation to stunning image creation, document automation to data visualization—Orphion's AI agent adapts to your workflow and handles it all seamlessly.
                     </p>
                 </div>
                 
